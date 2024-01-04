@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rolls Royce ghost</title>
+    <style>
+        body{
+            border: 5px black solid;
+            padding: 80px;
+        }
 
+    </style>
+</head>
+<body>
+    <body style="background-color: grey;"
+    <div class="first">
+    <h1>Rolls Royce Ghost </h1>
+   </div>
+
+    <img src="C:\Users\satya\OneDrive\Desktop\html\Picture\ghost.jpg" alt="ghost" width="500px",height="500px";
+    <div>Rolls Royce ghost V12 </div>
+    <pre> The 2024 Rolls-Royce Ghost has a 6.75-liter twin-turbocharged V12 engine that produces 563 horsepower and 627 lb-ft of torque. 
+        It can go from 0 to 60 mph in 4.6 seconds and has a top speed of 155 mph. The Ghost has an eight-speed automatic transmission and all-wheel drive. 
+    </pre>
+</body>
+</html>
